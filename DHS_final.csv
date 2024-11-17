@@ -1,0 +1,972 @@
+ID,Age,GENDER,RACE,ETHINICITY,Household Size,Enrolled in Medicaid CY2017,Participated in Employment & Training Program in CY2017,Earning_CY2017Q4,Earning_CY2018Q1,Earning_CY2018Q2,Earning_CY2018Q3,Earning_CY2018Q4,Earning_CY2019Q1,Earning_CY2019Q2,Earning_CY2019Q3,Mean_earning_Q,Group,Cluster
+1,27,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+2,45,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+3,21,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+4,37,Male,Not Reported,Not Reported,5,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+5,19,Male,Not Reported,Not Reported,1,N,N,912,950,0,1032,3054,0,0,0,743.5,Some Records,0
+6,44,Female,Black/African American,Not Hispanic or Latino,1,Y,N,4569,4901,3027,1611,3003,293,0,123,2190.875,Some Records,0
+7,44,Male,Not Reported,Not Reported,1,Y,N,3343,0,0,0,0,0,0,0,417.875,Some Records,0
+8,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+9,25,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+10,31,Male,Not Reported,Not Reported,1,N,N,0,0,2387,0,0,0,0,0,298.375,Some Records,0
+11,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+12,26,Female,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,0,0,0,448,56.0,Some Records,0
+13,37,Male,Not Reported,Not Reported,3,Y,N,0,0,0,4640,0,0,0,0,580.0,Some Records,0
+14,37,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+15,27,Female,Not Reported,Not Reported,2,Y,N,5024,4257,3431,725,3560,3172,4452,160,3097.625,All Records,0
+16,29,Female,Not Reported,Hispanic or Latino,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+17,47,Male,Not Reported,Not Reported,1,Y,N,0,21,855,0,0,0,0,0,109.5,Some Records,0
+18,28,Male,Not Reported,Not Reported,1,Y,N,2524,0,0,3945,2809,0,0,5376,1831.75,Some Records,0
+19,20,Male,Not Reported,Not Reported,6,Y,N,291,0,0,0,0,0,0,0,36.375,Some Records,0
+20,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+21,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+22,36,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+23,39,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+24,24,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+25,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+26,30,Female,Black/African American,Not Hispanic or Latino,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+27,31,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+28,49,Male,Asian,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+29,32,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+30,22,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,1166,145.75,Some Records,0
+31,29,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,8061,11490,12462,12933,6803,229,16994,8621.5,Some Records,1
+32,33,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+33,26,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,878,0,109.75,Some Records,0
+34,35,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+35,41,Male,Not Reported,Not Reported,1,Y,Y,512,0,0,0,0,0,0,0,64.0,Some Records,0
+36,19,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+37,22,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,5108,10739,14411,2628,4110.75,Some Records,0
+38,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,900,112.5,Some Records,0
+39,22,Male,Black/African American,Not Hispanic or Latino,4,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+40,28,Male,Not Reported,Not Reported,1,Y,N,446,0,0,105,4105,1632,0,0,786.0,Some Records,0
+41,44,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+42,28,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,1882,9210,8472,8230,7934,1251,4622.375,Some Records,0
+43,21,Male,Not Reported,Not Reported,5,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+44,31,Male,Not Reported,Not Reported,2,N,N,0,844,7130,5321,0,0,0,0,1661.875,Some Records,0
+45,31,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+46,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+47,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+48,38,Male,Not Reported,Not Reported,1,Y,N,3585,3512,931,0,0,0,0,0,1003.5,Some Records,0
+49,28,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,112,14.0,Some Records,0
+50,35,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,1117,139.625,Some Records,0
+51,26,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+52,49,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,618,77.25,Some Records,0
+53,45,Male,White/Caucasian,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+54,31,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+55,30,Male,Not Reported,Not Reported,1,Y,Y,0,638,353,0,0,0,0,0,123.875,Some Records,0
+56,27,Male,Not Reported,Not Reported,1,Y,N,0,0,550,53,0,0,0,0,75.375,Some Records,0
+57,25,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,260,3305,3195,3600,600,0,0,1370.0,Some Records,0
+58,25,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+59,33,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+60,32,Male,Black/African American,Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+61,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+62,31,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+63,33,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,3581,2698,784.875,Some Records,0
+64,48,Female,Not Reported,Not Reported,9,Y,N,93,0,0,0,0,0,0,0,11.625,Some Records,0
+65,37,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+66,24,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+67,27,Male,Not Reported,Not Reported,1,Y,Y,2266,0,0,0,0,0,0,0,283.25,Some Records,0
+68,33,Male,American Indian/Alaska Native,Not Hispanic or Latino,1,N,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+69,43,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,874,0,0,109.25,Some Records,0
+70,32,Female,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+71,19,Male,Not Reported,Not Reported,5,Y,N,0,0,0,3628,4987,4147,3663,5582,2750.875,Some Records,0
+72,20,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+73,32,Male,Not Reported,Not Reported,1,Y,N,4249,3604,517,0,0,0,20000,0,3546.25,Some Records,0
+74,42,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+75,20,Female,Not Reported,Not Reported,1,N,N,0,0,975,2888,331,509,1892,3826,1302.625,Some Records,0
+76,33,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+77,46,Male,Not Reported,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+78,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+79,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,1959,1129,0,386.0,Some Records,0
+80,34,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+81,39,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,1984,248.0,Some Records,0
+82,39,Male,Not Reported,Not Reported,2,Y,N,4017,0,0,0,0,0,0,0,502.125,Some Records,0
+83,39,Male,Not Reported,Not Reported,1,Y,N,5062,8066,1363,0,0,0,1655,2313,2307.375,Some Records,0
+84,21,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+85,24,Female,Not Reported,Not Hispanic or Latino,1,Y,N,0,0,0,3161,0,0,0,0,395.125,Some Records,0
+86,25,Male,Black/African American,Not Hispanic or Latino,1,N,Y,6184,9023,11872,523,0,0,0,3968,3946.25,Some Records,1
+87,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,504,4486,5156,1845,0,1498.875,Some Records,0
+88,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+89,40,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+90,25,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+91,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+92,30,Female,Not Reported,Not Reported,1,Y,N,292,56,3608,5235,0,0,3898,2656,1968.125,Some Records,0
+93,49,Female,Not Reported,Not Reported,3,Y,N,11456,9501,11582,9211,10897,8028,9450,8817,9867.75,All Records,1
+94,45,Female,Not Reported,Not Reported,1,Y,N,0,163,0,0,0,0,0,0,20.375,Some Records,0
+95,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+96,21,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+97,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+98,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+99,22,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+100,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,2261,0,0,0,282.625,Some Records,0
+101,20,Female,Black/African American,Not Hispanic or Latino,1,Y,N,2236,1773,4026,1601,0,0,549,108,1286.625,Some Records,0
+102,24,Male,Black/African American,Not Hispanic or Latino,7,Y,N,2541,0,0,53,58,0,0,0,331.5,Some Records,0
+103,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+104,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,378,0,47.25,Some Records,0
+105,24,Male,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+106,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+107,27,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+108,29,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+109,24,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+110,28,Male,Not Reported,Not Reported,1,N,N,0,225,293,251,106,0,0,1870,343.125,Some Records,0
+111,30,Male,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+112,35,Male,Not Reported,Not Reported,1,Y,Y,6526,6671,1476,0,0,0,0,0,1834.125,Some Records,0
+113,30,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,242,0,0,30.25,Some Records,0
+114,38,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+115,46,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+116,27,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+117,46,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+118,32,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+119,37,Male,Not Reported,Not Reported,1,Y,N,4755,0,0,0,0,0,0,0,594.375,Some Records,0
+120,38,Female,Not Reported,Not Reported,1,Y,N,0,7114,5799,6801,5881,6565,5699,7918,5722.125,Some Records,1
+121,34,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+122,49,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+123,46,Male,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+124,31,Female,Black/African American,Not Hispanic or Latino,1,Y,N,12039,17217,14427,8162,7894,8552,6960,1903,9644.25,All Records,1
+125,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+126,48,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+127,19,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+128,36,Male,Not Reported,Not Reported,1,Y,N,1600,0,0,0,0,0,333,0,241.625,Some Records,0
+129,34,Male,Black/African American,Not Hispanic or Latino,1,N,N,8890,7755,6214,0,0,0,0,0,2857.375,Some Records,0
+130,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+131,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+132,36,Male,Not Reported,Not Reported,1,Y,N,0,0,1782,5013,7660,8102,7512,1155,3903.0,Some Records,0
+133,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,1774,221.75,Some Records,0
+134,28,Female,Not Reported,Not Reported,1,Y,N,0,1890,0,0,0,0,0,0,236.25,Some Records,0
+135,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+136,31,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+137,37,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+138,46,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+139,45,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+140,24,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+141,36,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+142,20,Female,Black/African American,Not Hispanic or Latino,3,Y,N,0,0,995,170,0,0,1377,649,398.875,Some Records,0
+143,32,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,2256,4292,818.5,Some Records,0
+144,45,Male,Not Reported,Not Reported,1,Y,N,3925,0,0,0,0,0,0,0,490.625,Some Records,0
+145,44,Male,Not Reported,Not Reported,1,Y,Y,1548,0,0,0,0,0,0,0,193.5,Some Records,0
+146,18,Female,Black/African American,Not Hispanic or Latino,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+147,33,Male,Not Reported,Not Reported,1,Y,N,6556,0,0,0,0,0,0,0,819.5,Some Records,0
+148,29,Male,Not Reported,Not Reported,1,Y,N,0,0,4639,2041,0,0,0,0,835.0,Some Records,0
+149,34,Female,Not Reported,Not Reported,1,Y,N,1698,0,0,0,0,0,0,0,212.25,Some Records,0
+150,31,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+151,35,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,1425,5052,809.625,Some Records,0
+152,25,Female,Not Reported,Not Reported,1,Y,N,849,0,0,0,0,0,0,0,106.125,Some Records,0
+153,19,Male,Not Reported,Hispanic or Latino,3,Y,N,0,112,0,0,0,0,0,0,14.0,Some Records,0
+154,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+155,44,Female,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,5264,7840,1638.0,Some Records,0
+156,38,Male,Black/African American,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+157,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+158,37,Male,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+159,46,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+160,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+161,31,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,24,3.0,Some Records,0
+162,34,Male,Not Reported,Not Reported,1,Y,N,5934,4785,0,0,0,0,0,0,1339.875,Some Records,0
+163,24,Female,Not Reported,Not Reported,2,Y,N,116,0,0,0,0,175,621,0,114.0,Some Records,0
+164,32,Male,Not Reported,Not Reported,1,Y,Y,3458,4258,4686,243,0,0,1297,112,1756.75,Some Records,0
+165,44,Male,Not Reported,Not Reported,1,Y,N,0,0,25,0,0,0,0,0,3.125,Some Records,0
+166,46,Male,Black/African American,Not Reported,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+167,25,Male,Not Reported,Not Reported,1,Y,N,11280,13160,2444,0,0,0,0,2167,3631.375,Some Records,1
+168,24,Female,Not Reported,Not Reported,1,Y,N,5115,6023,5488,3891,6275,5860,3264,680,4574.5,All Records,1
+169,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,521,0,76,0,84,85.125,Some Records,0
+170,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,940,0,0,117.5,Some Records,0
+171,24,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+172,46,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+173,36,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+174,30,Male,Not Reported,Not Reported,1,Y,Y,0,4227,91,0,5319,10630,7903,8096,4533.25,Some Records,0
+175,47,Male,Not Reported,Not Reported,1,N,N,4739,1607,7619,5134,16826,17499,17567,14450,10680.125,All Records,1
+176,22,Male,Not Reported,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+177,24,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,706,0,0,930,1481,389.625,Some Records,0
+178,49,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+179,23,Male,Black/African American,Not Hispanic or Latino,3,Y,N,0,0,0,0,0,0,2658,5099,969.625,Some Records,0
+180,34,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+181,20,Female,Black/African American,Not Hispanic or Latino,3,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+182,26,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+183,46,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,0,240,0,0,0,0,30.0,Some Records,0
+184,38,Male,Black/African American,Not Hispanic or Latino,1,N,N,10918,7494,5958,9111,14108,9581,9307,9358,9479.375,All Records,1
+185,33,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+186,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+187,49,Male,Not Reported,Not Reported,1,Y,N,2821,0,0,0,0,0,0,0,352.625,Some Records,0
+188,47,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+189,33,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,173,21.625,Some Records,0
+190,37,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+191,40,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+192,28,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+193,41,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+194,34,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,4952,5050,1126,627,0,1469.375,Some Records,0
+195,49,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+196,38,Male,Not Reported,Not Reported,1,Y,N,139,0,0,0,0,0,0,0,17.375,Some Records,0
+197,38,Male,Not Reported,Not Reported,1,Y,N,2427,2577,106,0,0,0,0,0,638.75,Some Records,0
+198,48,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+199,44,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,463,2527,0,0,0,373.75,Some Records,0
+200,43,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,709,1746,1295,1350,637.5,Some Records,0
+201,20,Male,Not Reported,Not Reported,2,Y,N,13817,6544,0,13484,11171,12679,13319,14511,10690.625,Some Records,1
+202,45,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+203,25,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+204,33,Male,Not Reported,Not Reported,1,Y,N,0,0,0,8324,8607,2172,9105,0,3526.0,Some Records,0
+205,43,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+206,42,Female,Black/African American,Not Hispanic or Latino,2,Y,N,0,183,1514,0,0,0,0,0,212.125,Some Records,0
+207,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+208,42,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+209,20,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,2259,2487,0,0,434,1725,863.125,Some Records,0
+210,47,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+211,33,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+212,38,Male,Black/African American,Not Hispanic or Latino,1,Y,N,1872,0,0,580,5344,4992,2719,3822,2416.125,Some Records,0
+213,20,Male,Not Reported,Not Reported,1,Y,N,0,0,3085,4790,4519,3780,5385,9211,3846.25,Some Records,0
+214,20,Female,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+215,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+216,19,Male,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+217,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+218,31,Male,Black/African American,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+219,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+220,20,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,275,0,34.375,Some Records,0
+221,26,Male,Not Reported,Not Reported,1,N,N,0,0,444,1392,0,0,427,0,282.875,Some Records,0
+222,37,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+223,20,Female,Not Reported,Not Reported,1,Y,N,0,88,1456,1130,0,0,0,0,334.25,Some Records,0
+224,45,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+225,36,Male,Not Reported,Not Reported,1,N,N,0,3183,761,890,322,3662,580,0,1174.75,Some Records,0
+226,37,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+227,19,Male,Black/African American,Not Reported,3,N,N,0,0,0,800,0,0,0,0,100.0,Some Records,0
+228,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+229,31,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+230,23,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+231,24,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+232,27,Male,Not Reported,Not Reported,1,N,Y,0,104,0,0,0,79,0,0,22.875,Some Records,0
+233,46,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+234,37,Male,Not Reported,Not Reported,1,Y,N,0,0,0,851,3643,2532,359,0,923.125,Some Records,0
+235,28,Male,Not Reported,Not Reported,1,Y,Y,8763,376,0,120,0,0,0,0,1157.375,Some Records,0
+236,43,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+237,24,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,512,3332,3405,3545,5611,2050.625,Some Records,0
+238,49,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+239,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+240,39,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,4073,5408,992,0,0,0,1309.125,Some Records,0
+241,39,Female,Not Reported,Not Reported,1,N,N,9057,8552,7064,5952,8836,9727,11030,3376,7949.25,All Records,1
+242,32,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+243,32,Male,Not Reported,Not Reported,4,N,N,0,0,0,0,0,0,0,791,98.875,Some Records,0
+244,48,Female,Not Reported,Not Reported,2,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+245,49,Male,Black/African American,Not Reported,1,N,N,8487,2577,500,3792,0,0,0,995,2043.875,Some Records,0
+246,25,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+247,24,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+248,38,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+249,45,Male,Not Reported,Not Reported,1,Y,N,4794,4026,4566,4044,3487,0,7914,11871,5087.75,Some Records,1
+250,37,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+251,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+252,34,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+253,42,Male,Not Reported,Not Reported,1,Y,N,474,0,0,1273,2270,0,0,0,502.125,Some Records,0
+254,25,Male,Not Reported,Not Reported,5,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+255,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+256,25,Male,Not Reported,Not Reported,1,Y,N,262,2332,1397,3688,2151,3626,3747,4298,2687.625,All Records,0
+257,20,Female,Black/African American,Not Hispanic or Latino,4,Y,N,0,0,0,4448,0,0,0,744,649.0,Some Records,0
+258,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+259,39,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+260,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+261,40,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+262,36,Male,Not Reported,Not Reported,1,Y,N,0,975,1983,0,0,0,0,0,369.75,Some Records,0
+263,26,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+264,34,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+265,40,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,2333,0,0,0,291.625,Some Records,0
+266,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+267,34,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+268,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+269,21,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+270,19,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+271,21,Male,Not Reported,Not Reported,4,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+272,33,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,1,0,0.125,Some Records,0
+273,34,Male,Black/African American,Not Hispanic or Latino,2,Y,N,10015,6446,9767,8072,8499,0,0,668,5433.375,Some Records,1
+274,42,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+275,43,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+276,24,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,1755,219.375,Some Records,0
+277,24,Female,Black/African American,Not Hispanic or Latino,1,Y,N,1818,109,1,0,941,3081,6288,5969,2275.875,Some Records,0
+278,26,Female,Not Reported,Not Reported,1,Y,N,13035,13734,11772,13734,10398,10080,8588,10656,11499.625,All Records,1
+279,31,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+280,26,Female,Not Reported,Not Reported,5,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+281,48,Female,Not Reported,Not Reported,3,Y,N,0,0,1682,54,1750,1664,1979,1855,1123.0,Some Records,0
+282,32,Male,Not Reported,Not Reported,1,Y,N,1288,0,0,0,1680,7320,3660,0,1743.5,Some Records,0
+283,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+284,25,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+285,24,Female,Black/African American,Not Hispanic or Latino,1,N,N,60,0,0,0,0,0,0,0,7.5,Some Records,0
+286,27,Female,Black/African American,Not Hispanic or Latino,1,Y,N,9527,11307,9692,4038,20,0,0,0,4323.0,Some Records,1
+287,48,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,9118,0,0,0,0,20,1142.25,Some Records,0
+288,34,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+289,28,Female,Black/African American,Not Hispanic or Latino,1,N,N,9503,11637,7975,0,0,1183,2708,15098,6013.0,Some Records,1
+290,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,3482,435.25,Some Records,0
+291,31,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+292,27,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+293,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,1000,4980,4508,0,174,1332.75,Some Records,0
+294,24,Female,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+295,27,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,1053,0,0,0,0,9,132.75,Some Records,0
+296,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+297,40,Female,Not Reported,Not Reported,1,Y,Y,5304,2792,60,1040,246,0,0,0,1180.25,Some Records,0
+298,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+299,45,Male,Not Reported,Not Reported,1,Y,N,900,3324,818,106,3206,4160,2280,1393,2023.375,All Records,0
+300,24,Female,Not Reported,Not Reported,1,N,N,5599,4984,5283,5038,5311,6633,7957,8260,6133.125,All Records,1
+301,42,Male,Not Reported,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,2376,297.0,Some Records,0
+302,22,Female,Not Reported,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+303,22,Male,Not Reported,Not Reported,1,Y,N,11168,7330,1034,37,882,0,0,0,2556.375,Some Records,0
+304,31,Male,Black/African American,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+305,31,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,8630,0,1078.75,Some Records,0
+306,43,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,71,116,76,198,57.625,Some Records,0
+307,26,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+308,38,Female,Not Reported,Not Reported,5,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+309,21,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+310,24,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+311,46,Male,Not Reported,Not Reported,1,Y,N,0,0,0,1966,5938,4615,5412,0,2241.375,Some Records,0
+312,31,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+313,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+314,25,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+315,49,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+316,24,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,1134,6193,0,0,0,0,915.875,Some Records,0
+317,49,Female,Not Reported,Not Reported,1,Y,N,6734,5288,5482,686,0,119,483,4634,2928.25,Some Records,0
+318,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+319,48,Male,White/Caucasian,Hispanic or Latino,1,Y,Y,0,0,0,0,0,0,2640,9883,1565.375,Some Records,0
+320,23,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+321,23,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,471,75,176,0,0,1,0,90.375,Some Records,0
+322,44,Male,Not Reported,Not Reported,1,Y,N,55,0,0,0,0,0,0,0,6.875,Some Records,0
+323,35,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+324,21,Male,Black/African American,Not Reported,1,Y,N,0,0,0,0,0,0,665,2634,412.375,Some Records,0
+325,36,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+326,22,Male,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+327,46,Male,Black/African American,Not Hispanic or Latino,1,Y,N,7170,4131,5226,1862,2738,3146,0,0,3034.125,Some Records,0
+328,48,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+329,20,Male,Not Reported,Not Reported,1,Y,N,539,0,0,0,1890,1609,0,0,504.75,Some Records,0
+330,24,Male,Black/African American,Not Hispanic or Latino,2,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+331,31,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+332,27,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+333,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+334,20,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+335,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+336,32,Male,Black/African American,Not Hispanic or Latino,1,Y,N,3132,8703,1766,2033,106,106,159,0,2000.625,Some Records,0
+337,44,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+338,32,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,1170,146.25,Some Records,0
+339,39,Male,Not Reported,Not Reported,1,Y,N,109,3538,6644,5468,165,2464,0,5552,2992.5,Some Records,0
+340,34,Male,Not Reported,Not Reported,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+341,20,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+342,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+343,41,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,4768,596.0,Some Records,0
+344,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+345,39,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+346,34,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+347,28,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+348,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+349,38,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,53,0,6.625,Some Records,0
+350,24,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+351,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+352,29,Female,Not Reported,Not Reported,1,Y,N,5587,11616,12474,8543,950,0,0,112,4910.25,Some Records,1
+353,21,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+354,45,Female,Not Reported,Not Reported,1,Y,Y,6483,9413,17655,18422,3506,4375,10820,24129,11850.375,All Records,1
+355,32,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+356,21,Male,Black/African American,Not Hispanic or Latino,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+357,46,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+358,25,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,1656,207.0,Some Records,0
+359,48,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+360,43,Male,Not Reported,Not Reported,1,Y,N,13519,17319,10311,15949,18903,1779,0,17127,11863.375,Some Records,1
+361,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,154,0,0,0,0,19.25,Some Records,0
+362,45,Female,Black/African American,Not Hispanic or Latino,5,Y,N,1232,4939,485,5508,7167,0,7700,6662,4211.625,Some Records,0
+363,49,Female,Not Reported,Not Reported,1,Y,N,2216,4448,4835,6602,4856,0,0,354,2913.875,Some Records,0
+364,43,Male,Not Reported,Not Reported,1,Y,N,0,1396,1216,0,0,0,0,0,326.5,Some Records,0
+365,45,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+366,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+367,20,Female,Not Reported,Not Reported,3,Y,N,3096,1271,100,5575,4330,3542,4251,7190,3669.375,All Records,0
+368,37,Male,Not Reported,Not Reported,1,N,Y,13537,7932,11991,11273,15032,16116,13353,0,11154.25,Some Records,1
+369,37,Female,Not Reported,Not Reported,1,N,Y,1708,2392,1135,641,931,460,914,506,1085.875,All Records,0
+370,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,1552,7905,696,0,0,1269.125,Some Records,0
+371,49,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+372,32,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,616,3506,4670,708,1187.5,Some Records,0
+373,25,Male,Not Reported,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+374,21,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+375,26,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,1468,4583,756.375,Some Records,0
+376,25,Female,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,8379,6783,1127,117,2050.75,Some Records,0
+377,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+378,39,Male,Not Reported,Not Reported,1,Y,N,3992,1977,1313,0,0,0,0,0,910.25,Some Records,0
+379,32,Male,Not Reported,Not Reported,2,Y,N,281,0,0,0,0,0,0,0,35.125,Some Records,0
+380,32,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+381,24,Male,Not Reported,Not Reported,1,N,N,0,0,675,0,0,0,0,0,84.375,Some Records,0
+382,22,Male,Black/African American,Not Hispanic or Latino,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+383,39,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+384,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,4931,4791,138,0,1232.5,Some Records,0
+385,23,Female,Not Reported,Not Reported,2,Y,N,3425,4394,2452,0,0,0,0,0,1283.875,Some Records,0
+386,39,Male,Not Reported,Not Reported,1,Y,N,0,230,0,0,0,0,0,298,66.0,Some Records,0
+387,21,Female,Black/African American,Not Hispanic or Latino,5,Y,Y,1490,4480,1849,3275,2714,0,3146,2590,2443.0,Some Records,0
+388,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+389,23,Female,Not Reported,Not Reported,1,Y,N,9464,7622,839,0,0,0,0,0,2240.625,Some Records,0
+390,23,Male,Not Reported,Not Reported,1,N,N,0,0,0,3922,4268,2257,189,3091,1715.875,Some Records,0
+391,25,Male,Not Reported,Not Reported,3,Y,N,3020,5005,4427,5387,7085,4969,6324,5589,5225.75,All Records,1
+392,39,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+393,21,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+394,44,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+395,48,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,812,0,0,425,6545,4078,1482.5,Some Records,0
+396,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+397,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+398,46,Male,Black/African American,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+399,40,Female,Not Reported,Not Reported,1,Y,N,0,3685,2139,0,0,0,11,0,729.375,Some Records,0
+400,28,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,613,0,0,432,0,130.625,Some Records,0
+401,31,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+402,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,2118,0,264.75,Some Records,0
+403,24,Female,Black/African American,Not Reported,1,N,Y,0,0,0,0,1092,0,0,759,231.375,Some Records,0
+404,37,Male,Not Reported,Not Reported,2,Y,N,0,3472,5653,7872,6069,4830,1793,161,3731.25,Some Records,0
+405,31,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+406,28,Male,Not Reported,Not Reported,1,Y,Y,0,0,1015,4578,3857,1406,3446,1930,2029.0,Some Records,0
+407,27,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+408,25,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+409,28,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+410,45,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+411,33,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+412,24,Male,Black/African American,Not Hispanic or Latino,1,N,N,1344,0,0,419,0,0,0,0,220.375,Some Records,0
+413,20,Female,Not Reported,Not Reported,1,Y,N,0,482,1054,0,280,0,0,2410,528.25,Some Records,0
+414,31,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+415,26,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+416,48,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,2827,1984,0,0,0,0,601.375,Some Records,0
+417,41,Male,Not Reported,Not Reported,1,Y,N,4895,4272,0,0,0,592,530,1568,1482.125,Some Records,0
+418,39,Male,Black/African American,Not Hispanic or Latino,3,Y,N,175,0,0,0,833,0,0,0,126.0,Some Records,0
+419,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+420,44,Female,Black/African American,Not Hispanic or Latino,4,Y,N,0,0,3862,5999,6719,6111,8208,6977,4734.5,Some Records,0
+421,45,Female,Not Reported,Not Reported,1,Y,N,17264,19915,18333,10070,0,0,0,0,8197.75,Some Records,1
+422,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,3094,0,0,0,386.75,Some Records,0
+423,32,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+424,43,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,2374,2129,3280,3526,1413.625,Some Records,0
+425,48,Male,Not Reported,Not Reported,1,Y,Y,5134,0,0,0,0,363,308,203,751.0,Some Records,0
+426,27,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+427,30,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,144,0,0,0,0,896,0,130.0,Some Records,0
+428,48,Male,Not Reported,Not Reported,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+429,46,Male,Not Reported,Not Reported,1,Y,N,1851,0,0,0,0,0,0,0,231.375,Some Records,0
+430,22,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+431,39,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+432,43,Female,Not Reported,Not Reported,2,Y,Y,0,0,2982,440,0,0,0,0,427.75,Some Records,0
+433,46,Female,Not Reported,Not Reported,2,Y,N,20291,12535,889,2376,0,0,0,0,4511.375,Some Records,1
+434,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+435,49,Male,Not Reported,Not Reported,1,Y,N,0,0,6598,7074,664,3425,221,0,2247.75,Some Records,0
+436,32,Male,Not Reported,Not Reported,1,N,N,5199,6447,3923,0,0,0,0,0,1946.125,Some Records,0
+437,38,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+438,25,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+439,32,Male,Not Reported,Not Reported,1,Y,N,10248,10248,2761,762,4443,397,5591,1123,4446.625,All Records,1
+440,45,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+441,18,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,875,354,153.625,Some Records,0
+442,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,291,106,212,224,104.125,Some Records,0
+443,40,Male,Not Reported,Not Reported,1,Y,N,0,0,2872,1283,0,390,1266,0,726.375,Some Records,0
+444,44,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+445,42,Male,Black/African American,Not Hispanic or Latino,1,N,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+446,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,687,0,6902,0,948.625,Some Records,0
+447,45,Female,Not Reported,Not Reported,1,Y,N,8468,7422,7988,6103,3620,1613,7621,0,5354.375,Some Records,1
+448,42,Female,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+449,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+450,36,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+451,28,Female,Not Reported,Not Reported,3,Y,N,4194,5219,2723,0,0,0,0,0,1517.0,Some Records,0
+452,24,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+453,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+454,45,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+455,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+456,42,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+457,25,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+458,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+459,36,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+460,38,Male,Not Reported,Not Reported,1,Y,N,7474,823,0,507,6048,5927,6451,1589,3602.375,Some Records,0
+461,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+462,30,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+463,30,Female,Not Reported,Not Reported,1,Y,N,0,110,0,2166,0,286,3795,232,823.625,Some Records,0
+464,43,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+465,21,Male,Not Reported,Not Reported,1,N,Y,952,1089,130,4584,0,0,0,1519,1034.25,Some Records,0
+466,32,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,58,7.25,Some Records,0
+467,30,Female,Not Reported,Not Reported,1,Y,N,66,0,0,0,0,0,0,0,8.25,Some Records,0
+468,28,Male,Black/African American,Not Hispanic or Latino,1,Y,N,3251,0,700,4047,0,0,0,0,999.75,Some Records,0
+469,40,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+470,46,Male,White/Caucasian,Not Hispanic or Latino,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+471,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+472,19,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+473,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+474,42,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+475,20,Female,Black/African American,Not Hispanic or Latino,1,N,N,62,647,0,0,0,0,593,0,162.75,Some Records,0
+476,49,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+477,34,Female,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+478,35,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,598,0,0,0,0,0,74.75,Some Records,0
+479,20,Male,Not Reported,Not Reported,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+480,44,Female,Not Reported,Not Reported,3,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+481,24,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,3155,4190,918.125,Some Records,0
+482,39,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+483,33,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+484,36,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,127,15.875,Some Records,0
+485,40,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+486,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+487,23,Female,Not Reported,Not Reported,1,Y,N,4159,1037,1592,112,2254,1971,6162,1361,2331.0,All Records,0
+488,42,Male,Not Reported,Not Reported,1,Y,N,0,0,0,1842,10675,0,4218,1137,2234.0,Some Records,0
+489,47,Male,White/Caucasian,Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+490,43,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,1928,4247,771.875,Some Records,0
+491,25,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+492,42,Male,Not Reported,Not Reported,1,Y,N,0,0,341,3022,6593,5193,282,0,1928.875,Some Records,0
+493,29,Male,Not Reported,Not Reported,1,Y,N,0,0,2300,92,0,0,0,0,299.0,Some Records,0
+494,34,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+495,21,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+496,30,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+497,48,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,6000,7800,1725.0,Some Records,0
+498,22,Female,White/Caucasian,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+499,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,56,0,0,0,7.0,Some Records,0
+500,32,Male,Not Reported,Not Reported,1,Y,N,0,0,0,1995,1035,0,0,3823,856.625,Some Records,0
+501,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+502,32,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+503,40,Female,Not Reported,Not Reported,1,Y,N,1112,309,0,0,2946,3552,2451,1440,1476.25,Some Records,0
+504,22,Female,Not Reported,Not Reported,1,Y,N,0,847,0,0,0,0,0,0,105.875,Some Records,0
+505,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+506,25,Female,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,1250,0,156.25,Some Records,0
+507,25,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+508,31,Male,Black/African American,Not Hispanic or Latino,1,N,Y,3767,6280,7048,7857,558,0,0,0,3188.75,Some Records,0
+509,37,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,931,116.375,Some Records,0
+510,30,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,510,1931,0,305.125,Some Records,0
+511,42,Male,"Mutliracial, Not Otherwise Defined",Not Hispanic or Latino,1,Y,N,34037,21103,0,0,0,0,0,0,6892.5,Some Records,1
+512,29,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+513,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+514,24,Female,Black/African American,Not Hispanic or Latino,3,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+515,32,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+516,42,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+517,29,Male,Black/African American,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+518,21,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,6336,792.0,Some Records,0
+519,25,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,1073,0,0,0,0,0,134.125,Some Records,0
+520,46,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+521,31,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,2979,1407,0,548.25,Some Records,0
+522,42,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+523,35,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,4278,3560,2733,1321.375,Some Records,0
+524,25,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,695,3050,3288,1590,104,236,0,1120.375,Some Records,0
+525,33,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+526,40,Male,Black/African American,Not Hispanic or Latino,1,N,Y,0,0,0,0,0,0,66,6634,837.5,Some Records,0
+527,24,Male,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+528,24,Female,Not Reported,Not Reported,1,Y,N,19,0,0,0,0,0,0,0,2.375,Some Records,0
+529,49,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+530,19,Female,Not Reported,Not Reported,3,Y,N,541,1262,1568,2300,0,0,0,1082,844.125,Some Records,0
+531,20,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+532,29,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+533,20,Female,Not Reported,Not Reported,3,Y,N,2308,1430,0,0,0,0,568,0,538.25,Some Records,0
+534,20,Male,Black/African American,Not Hispanic or Latino,3,Y,N,0,0,0,0,0,1881,2227,0,513.5,Some Records,0
+535,43,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,939,675,0,0,0,0,201.75,Some Records,0
+536,18,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,96,3031,390.875,Some Records,0
+537,27,Male,Not Reported,Not Reported,1,Y,N,0,252,1659,2604,0,0,2346,0,857.625,Some Records,0
+538,25,Female,Not Reported,Not Reported,1,Y,N,0,0,1700,4658,1619,1098,0,641,1214.5,Some Records,0
+539,29,Female,Not Reported,Not Reported,1,Y,Y,0,0,772,0,0,0,0,0,96.5,Some Records,0
+540,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+541,22,Female,Not Reported,Not Reported,2,Y,N,2324,645,707,810,0,0,2777,12499,2470.25,Some Records,0
+542,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+543,30,Female,Not Reported,Not Reported,3,Y,N,7391,7800,1102,2765,1171,0,0,0,2528.625,Some Records,0
+544,40,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,1612,8011,1202.875,Some Records,0
+545,40,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,142,0,0,0,21,20.375,Some Records,0
+546,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+547,25,Male,Not Reported,Not Reported,1,N,Y,0,0,0,0,730,456,1377,0,320.375,Some Records,0
+548,40,Male,Not Reported,Not Reported,1,Y,N,3000,1968,0,0,0,0,0,0,621.0,Some Records,0
+549,31,Female,Not Reported,Not Reported,1,Y,N,4427,3230,5197,1537,0,0,990,0,1922.625,Some Records,0
+550,33,Female,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+551,20,Female,Black/African American,Not Hispanic or Latino,4,N,N,749,293,2027,3297,1199,116,1391,3005,1509.625,All Records,0
+552,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,24857,3107.125,Some Records,0
+553,25,Male,Black/African American,Not Reported,1,Y,N,0,4754,14753,14308,2291,0,0,0,4513.25,Some Records,1
+554,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+555,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+556,35,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+557,28,Male,Not Reported,Not Reported,1,Y,N,604,167,4183,0,0,0,0,0,619.25,Some Records,0
+558,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,432,54.0,Some Records,0
+559,36,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+560,40,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+561,23,Female,Not Reported,Not Reported,1,Y,N,6000,7030,709,5193,9318,5334,8449,8316,6293.625,All Records,1
+562,25,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+563,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+564,19,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+565,48,Male,Not Reported,Not Reported,1,Y,N,0,647,0,0,0,0,0,0,80.875,Some Records,0
+566,37,Male,Not Reported,Not Reported,1,Y,N,3106,0,0,0,0,0,0,0,388.25,Some Records,0
+567,24,Female,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,0,0,0,0,0,6771,846.375,Some Records,0
+568,24,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+569,35,Male,Not Reported,Not Reported,1,Y,N,7126,0,0,0,0,0,0,0,890.75,Some Records,0
+570,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+571,25,Male,Not Reported,Not Reported,1,Y,N,6815,7006,8230,2233,8076,0,0,3447,4475.875,Some Records,1
+572,36,Male,Not Reported,Not Reported,1,Y,N,836,0,470,0,184,0,0,0,186.25,Some Records,0
+573,43,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+574,19,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,745,252,0,0,124.625,Some Records,0
+575,26,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+576,44,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+577,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+578,42,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,2780,0,347.5,Some Records,0
+579,29,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+580,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+581,19,Female,Not Reported,Not Reported,5,Y,N,0,0,0,0,3531,6476,6228,2452,2335.875,Some Records,0
+582,28,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+583,37,Male,Not Reported,Not Reported,1,N,Y,0,0,679,0,0,0,0,0,84.875,Some Records,0
+584,37,Female,Not Reported,Not Reported,1,Y,N,1593,1830,2905,0,0,0,0,0,791.0,Some Records,0
+585,24,Female,Not Reported,Not Reported,1,N,N,5628,5520,4099,2497,4395,3891,0,0,3253.75,Some Records,0
+586,30,Male,Black/African American,Not Hispanic or Latino,1,Y,N,4725,1567,2192,0,0,0,0,0,1060.5,Some Records,0
+587,29,Female,Not Reported,Not Reported,1,Y,N,8913,12634,13155,11276,13655,11276,3758,0,9333.375,Some Records,1
+588,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+589,49,Female,White/Caucasian,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+590,45,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+591,23,Female,Not Reported,Not Reported,1,N,N,0,162,853,0,577,144,50,0,223.25,Some Records,0
+592,44,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,45,0,81,15.75,Some Records,0
+593,23,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,1886,6952,8184,2127.75,Some Records,0
+594,35,Female,Black/African American,Not Hispanic or Latino,1,N,N,30,0,0,0,0,0,0,0,3.75,Some Records,0
+595,34,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+596,33,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,4700,4300,1125.0,Some Records,0
+597,24,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+598,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+599,32,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+600,39,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+601,44,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+602,25,Male,Not Reported,Not Reported,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+603,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+604,43,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+605,49,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+606,37,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+607,27,Male,Not Reported,Not Reported,1,Y,N,3926,1266,1084,3035,3466,2447,0,0,1903.0,Some Records,0
+608,40,Male,Not Reported,Not Reported,1,N,Y,372,1322,0,1458,0,0,0,0,394.0,Some Records,0
+609,43,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+610,25,Female,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+611,26,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,1605,3980,700,0,0,0,0,785.625,Some Records,0
+612,21,Female,Black/African American,Not Hispanic or Latino,3,N,N,4746,1315,59,2919,0,3397,453,840,1716.125,Some Records,0
+613,34,Female,Not Reported,Not Reported,1,Y,N,7333,7605,7104,8284,6791,7969,6199,0,6410.625,Some Records,1
+614,45,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,5841,5089,742,0,1459.0,Some Records,0
+615,48,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+616,20,Female,Black/African American,Not Hispanic or Latino,3,Y,N,0,1321,5216,878,1704,0,304,0,1177.875,Some Records,0
+617,49,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+618,38,Female,Not Reported,Not Reported,2,Y,N,0,0,42,2387,4294,4205,3261,0,1773.625,Some Records,0
+619,27,Female,Black/African American,Not Hispanic or Latino,3,Y,N,1390,1154,6265,7403,6646,7260,6269,1754,4767.625,All Records,1
+620,40,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,858,3585,0,0,0,0,555.375,Some Records,0
+621,48,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+622,34,Male,Not Reported,Not Reported,1,Y,Y,0,0,2581,7665,4889,0,0,0,1891.875,Some Records,0
+623,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,151,0,0,0,18.875,Some Records,0
+624,26,Female,Not Reported,Not Reported,5,Y,N,0,0,0,110,0,0,0,0,13.75,Some Records,0
+625,49,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+626,42,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+627,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,4545,7642,1256,365,0,1726.0,Some Records,0
+628,39,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+629,23,Male,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+630,43,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,1901,2537,0,0,554.75,Some Records,0
+631,24,Female,Black/African American,Not Hispanic or Latino,3,Y,N,0,0,862,3566,1662,9340,9624,11243,4537.125,Some Records,0
+632,42,Female,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+633,35,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+634,18,Female,Not Reported,Not Hispanic or Latino,5,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+635,19,Male,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+636,48,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+637,30,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+638,22,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,90,2674,345.5,Some Records,0
+639,20,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+640,37,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,2051,3169,292,0,689.0,Some Records,0
+641,42,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+642,20,Male,Not Reported,Not Reported,2,Y,N,2265,1642,1566,3179,0,0,0,0,1081.5,Some Records,0
+643,23,Male,Not Reported,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+644,34,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+645,43,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,4043,5203,1155.75,Some Records,0
+646,27,Male,Black/African American,Not Hispanic or Latino,1,Y,N,100,0,0,0,0,0,0,0,12.5,Some Records,0
+647,31,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+648,49,Male,Not Reported,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+649,28,Male,Black/African American,Not Hispanic or Latino,1,Y,N,11833,9269,6735,6191,6362,1454,0,3953,5724.625,Some Records,1
+650,33,Female,Not Reported,Not Reported,1,Y,N,0,0,3982,5162,5886,2548,3320,3571,3058.625,Some Records,0
+651,34,Male,Not Reported,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+652,31,Male,Not Reported,Not Reported,1,Y,N,2879,136,0,6807,7835,3729,0,0,2673.25,Some Records,0
+653,47,Male,Black/African American,Not Hispanic or Latino,1,Y,N,1598,2510,1784,0,0,0,0,0,736.5,Some Records,0
+654,22,Male,Not Reported,Not Reported,1,N,N,251,0,0,0,561,0,0,0,101.5,Some Records,0
+655,35,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+656,28,Male,Black/African American and White,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+657,25,Male,Black/African American,Not Hispanic or Latino,1,Y,N,2379,2416,1910,0,0,1622,2161,2080,1571.0,Some Records,0
+658,37,Male,Not Reported,Not Reported,1,Y,N,0,0,0,2160,2756,0,110,2482,938.5,Some Records,0
+659,26,Male,Not Reported,Not Reported,1,N,Y,0,112,0,0,0,0,0,0,14.0,Some Records,0
+660,19,Female,Not Reported,Not Reported,1,Y,Y,608,2047,3029,2152,0,993,821,2569,1527.375,Some Records,0
+661,34,Male,Not Reported,Not Reported,5,Y,N,434,750,0,0,0,135,0,0,164.875,Some Records,0
+662,22,Male,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+663,40,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+664,30,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,7670,678,0,0,1043.5,Some Records,0
+665,44,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+666,49,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+667,28,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+668,26,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+669,47,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+670,34,Male,Not Reported,Not Reported,1,Y,N,310,3318,0,1037,4900,6390,5437,4397,3223.625,Some Records,0
+671,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+672,26,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,1577,1838,6983,6368,4388,5688,3355.25,Some Records,0
+673,38,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+674,27,Male,Not Reported,Not Reported,1,Y,N,0,0,4592,733,0,0,2434,560,1039.875,Some Records,0
+675,32,Male,Not Reported,Not Reported,1,N,N,0,0,1087,190,967,0,0,0,280.5,Some Records,0
+676,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+677,48,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+678,24,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+679,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,953,0,0,0,0,119.125,Some Records,0
+680,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+681,32,Female,Not Reported,Not Reported,1,N,N,18941,27177,22924,3076,0,0,0,0,9014.75,Some Records,1
+682,28,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+683,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,589,73.625,Some Records,0
+684,23,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+685,35,Male,Black/African American,Not Hispanic or Latino,1,N,Y,0,0,0,0,2649,0,0,0,331.125,Some Records,0
+686,38,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+687,27,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+688,31,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+689,26,Male,Black/African American,Not Hispanic or Latino,2,N,N,0,0,0,0,1955,5665,6994,7932,2818.25,Some Records,0
+690,29,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+691,35,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+692,27,Male,Black/African American,Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+693,46,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+694,28,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+695,44,Male,Not Reported,Not Reported,4,Y,N,9744,16100,13834,5961,700,1793,923,0,6131.875,Some Records,1
+696,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+697,49,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,1170,0,77,1388,329.375,Some Records,0
+698,27,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+699,30,Female,White/Caucasian,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+700,24,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+701,48,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+702,27,Male,Not Reported,Not Reported,1,N,N,143,0,0,0,0,0,0,0,17.875,Some Records,0
+703,22,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+704,40,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+705,36,Female,Not Reported,Not Reported,1,Y,N,994,0,0,0,0,0,0,0,124.25,Some Records,0
+706,42,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+707,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+708,37,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,1390,3367,3884,3860,1902,0,1800.375,Some Records,0
+709,29,Male,Not Reported,Not Reported,1,Y,N,600,0,0,302,0,404,0,0,163.25,Some Records,0
+710,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,216,1260,3019,561.875,Some Records,0
+711,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+712,33,Male,Not Reported,Not Reported,1,Y,N,360,0,0,0,0,0,0,0,45.0,Some Records,0
+713,37,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+714,19,Female,Not Reported,Not Reported,1,N,N,0,0,1628,2572,0,696,752,0,706.0,Some Records,0
+715,47,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+716,31,Female,Not Reported,Not Reported,1,Y,N,0,0,0,1158,0,0,0,0,144.75,Some Records,0
+717,19,Male,Not Reported,Not Reported,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+718,42,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+719,46,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+720,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,3796,9886,1710.25,Some Records,0
+721,22,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+722,23,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+723,42,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+724,40,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,3774,1904,0,0,0,0,709.75,Some Records,0
+725,32,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+726,27,Male,Not Reported,Not Reported,1,Y,N,0,0,6134,6188,6452,1398,596,5935,3337.875,Some Records,0
+727,44,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+728,38,Female,Not Reported,Not Reported,5,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+729,40,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+730,49,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,6278,9372,10619,15187,1793,3459,5838.5,Some Records,1
+731,24,Male,Not Reported,Not Reported,2,Y,N,5499,4794,5352,1613,0,0,0,0,2157.25,Some Records,0
+732,24,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+733,33,Female,Not Reported,Not Reported,1,Y,N,1614,0,0,0,0,0,0,0,201.75,Some Records,0
+734,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+735,21,Male,Not Reported,Not Reported,2,Y,N,2288,0,0,0,0,0,0,3432,715.0,Some Records,0
+736,49,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,4345,543.125,Some Records,0
+737,23,Female,Black/African American,Not Reported,1,Y,N,2059,2652,1712,0,5548,4781,0,0,2094.0,Some Records,0
+738,20,Male,Not Reported,Not Reported,2,Y,N,0,145,0,0,621,0,1006,603,296.875,Some Records,0
+739,42,Female,Not Reported,Not Reported,3,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+740,36,Female,Not Reported,Not Reported,1,Y,N,0,0,3324,2977,3342,106,2133,2666,1818.5,Some Records,0
+741,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+742,33,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,480,1370,0,686,317.0,Some Records,0
+743,31,Male,Not Reported,Not Reported,1,Y,N,0,1901,0,0,0,0,0,0,237.625,Some Records,0
+744,38,Female,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,0,0,4,0,0.5,Some Records,0
+745,24,Male,Black/African American,Not Hispanic or Latino,3,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+746,23,Female,Black/African American,Not Hispanic or Latino,2,Y,N,701,1903,0,0,0,0,0,0,325.5,Some Records,0
+747,39,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+748,48,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+749,44,Female,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+750,35,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+751,40,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+752,19,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+753,23,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+754,41,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,5759,4931,0,0,1336.25,Some Records,0
+755,45,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+756,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+757,36,Male,Not Reported,Not Reported,1,N,N,18936,12907,16931,12786,479,0,0,0,7754.875,Some Records,1
+758,40,Male,Not Reported,Not Reported,1,Y,Y,2705,5095,4158,2269,2430,0,0,0,2082.125,Some Records,0
+759,48,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+760,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+761,34,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+762,36,Male,Black/African American,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+763,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+764,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+765,28,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,0,0,0,135,2311,0,305.75,Some Records,0
+766,25,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+767,39,Male,Black/African American,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+768,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,215,0,26.875,Some Records,0
+769,27,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+770,43,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+771,42,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+772,23,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,1662,3319,622.625,Some Records,0
+773,48,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+774,21,Female,Not Reported,Not Reported,4,Y,N,553,64,166,500,1848,1488,832,643,761.75,All Records,0
+775,26,Male,Black/African American,Not Hispanic or Latino,1,Y,N,5694,0,1130,0,1787,833,0,0,1180.5,Some Records,0
+776,19,Male,White/Caucasian,Hispanic or Latino,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+777,26,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+778,30,Male,Not Reported,Not Reported,1,Y,N,3604,0,1189,0,0,0,5111,0,1238.0,Some Records,0
+779,47,Female,Not Reported,Not Reported,2,Y,N,823,382,56,0,984,0,0,0,280.625,Some Records,0
+780,22,Female,Not Reported,Not Reported,3,Y,N,18,0,424,0,0,0,0,0,55.25,Some Records,0
+781,32,Female,Not Reported,Not Reported,1,Y,N,2004,1397,1585,0,0,0,1368,1657,1001.375,Some Records,0
+782,44,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+783,28,Male,Not Reported,Not Reported,1,Y,N,2515,1524,647,0,0,0,0,0,585.75,Some Records,0
+784,40,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+785,45,Male,Not Reported,Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+786,25,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+787,37,Female,Not Reported,Not Reported,1,Y,Y,0,104,0,0,0,0,0,0,13.0,Some Records,0
+788,32,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+789,26,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+790,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,2751,15203,10289,7114,4419.625,Some Records,0
+791,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+792,33,Male,Black/African American,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+793,48,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,3,0,0.375,Some Records,0
+794,26,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+795,46,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+796,20,Male,White/Caucasian,Hispanic or Latino,3,Y,N,0,0,0,0,708,682,887,0,284.625,Some Records,0
+797,48,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+798,26,Male,Not Reported,Not Reported,3,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+799,32,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+800,36,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+801,33,Male,Not Reported,Not Reported,1,Y,N,0,172,7159,1569,0,0,0,0,1112.5,Some Records,0
+802,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+803,31,Male,Not Reported,Not Reported,1,Y,N,0,2521,2133,0,0,0,0,0,581.75,Some Records,0
+804,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+805,44,Female,Not Reported,Not Reported,1,Y,N,0,0,0,1275,5400,5206,4175,2948,2375.5,Some Records,0
+806,24,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+807,44,Male,Black/African American,Not Hispanic or Latino,1,Y,N,6750,6750,6750,6328,4409,1064,0,0,4006.375,Some Records,1
+808,46,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+809,44,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+810,41,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+811,26,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,249,0,0,0,31.125,Some Records,0
+812,38,Male,Not Reported,Not Reported,3,Y,N,2035,0,0,0,0,0,0,0,254.375,Some Records,0
+813,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+814,25,Female,Not Reported,Not Reported,1,Y,Y,847,0,0,0,0,0,0,0,105.875,Some Records,0
+815,29,Female,Not Reported,Not Reported,1,Y,N,0,0,3136,15008,6508,0,0,0,3081.5,Some Records,0
+816,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+817,38,Male,Not Reported,Not Reported,1,Y,N,27307,0,0,0,0,0,0,0,3413.375,Some Records,1
+818,29,Male,Not Reported,Not Reported,1,Y,N,2727,652,4607,1171,2773,2942,1382,0,2031.75,Some Records,0
+819,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+820,48,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+821,20,Male,Not Reported,Not Reported,4,Y,N,0,0,0,1537,0,0,0,0,192.125,Some Records,0
+822,20,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,47,551,74.75,Some Records,0
+823,28,Female,Not Reported,Not Reported,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+824,38,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+825,43,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+826,30,Male,Not Reported,Not Reported,1,Y,N,4490,195,3348,7859,1391,319,7445,8369,4177.0,All Records,0
+827,48,Female,Not Reported,Not Reported,2,Y,Y,0,0,0,453,0,0,0,0,56.625,Some Records,0
+828,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+829,28,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+830,18,Female,Not Reported,Not Reported,3,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+831,31,Female,Black/African American,Not Hispanic or Latino,1,N,N,23713,22789,19999,22091,23486,28913,25244,24680,23864.375,All Records,1
+832,33,Female,Not Reported,Not Reported,1,Y,N,4300,0,0,0,0,0,0,430,591.25,Some Records,0
+833,34,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+834,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+835,40,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+836,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+837,46,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+838,26,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+839,18,Female,Not Reported,Not Reported,6,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+840,48,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+841,36,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+842,48,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+843,32,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+844,36,Male,Black/African American,Not Hispanic or Latino,1,N,N,4911,1957,0,0,0,0,0,0,858.5,Some Records,0
+845,39,Female,Not Reported,Not Reported,2,Y,N,0,0,0,680,0,0,0,0,85.0,Some Records,0
+846,38,Male,Black/African American,Not Hispanic or Latino,1,Y,N,9212,12860,3306,573,212,0,0,0,3270.375,Some Records,1
+847,26,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+848,40,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+849,20,Female,Not Reported,Not Hispanic or Latino,3,Y,N,0,0,0,0,0,0,0,529,66.125,Some Records,0
+850,34,Male,Not Reported,Hispanic or Latino,1,Y,N,0,0,0,0,0,0,2706,7098,1225.5,Some Records,0
+851,21,Male,Black/African American,Not Hispanic or Latino,1,Y,N,681,56,4334,5580,0,0,0,1314,1495.625,Some Records,0
+852,27,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+853,20,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+854,19,Male,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+855,44,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+856,35,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+857,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+858,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+859,48,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+860,24,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+861,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+862,26,Male,Black/African American,Not Hispanic or Latino,1,N,N,5950,6068,6100,6701,1317,0,0,0,3267.0,Some Records,1
+863,31,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+864,24,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+865,32,Female,Not Reported,Not Reported,5,Y,N,3346,0,0,0,0,0,0,0,418.25,Some Records,0
+866,20,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,307,0,0,0,0,0,38.375,Some Records,0
+867,19,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,1671,1309,372.5,Some Records,0
+868,25,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+869,32,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+870,29,Female,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+871,22,Female,White/Caucasian,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+872,33,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+873,38,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,1477,1211,471,0,394.875,Some Records,0
+874,36,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+875,33,Female,Not Reported,Not Reported,2,Y,N,327,0,0,0,0,0,1360,0,210.875,Some Records,0
+876,22,Male,Not Reported,Not Reported,3,Y,N,1431,768,0,0,0,0,0,0,274.875,Some Records,0
+877,41,Male,Black/African American,Not Hispanic or Latino,2,Y,Y,0,0,0,0,0,420,5029,7443,1611.5,Some Records,0
+878,23,Male,Not Reported,Hispanic or Latino,3,Y,N,6756,7852,7610,8320,7657,8370,9500,8444,8063.625,All Records,1
+879,28,Female,Not Reported,Not Reported,2,Y,Y,4981,0,0,0,2769,1529,3268,6076,2327.875,Some Records,0
+880,41,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+881,21,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,1867,148,0,0,0,0,251.875,Some Records,0
+882,39,Male,Not Reported,Not Reported,1,Y,N,0,0,311,1497,685,649,804,630,572.0,Some Records,0
+883,40,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,3001,375.125,Some Records,0
+884,28,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+885,24,Female,Not Reported,Not Reported,1,N,N,0,0,0,0,1376,0,0,57,179.125,Some Records,0
+886,40,Male,Not Reported,Not Reported,1,Y,N,12212,10599,2229,0,0,0,0,0,3130.0,Some Records,1
+887,28,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+888,34,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+889,43,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+890,30,Female,Not Reported,Not Reported,6,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+891,34,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+892,37,Male,Black/African American,Not Hispanic or Latino,1,N,Y,913,0,0,0,0,0,0,0,114.125,Some Records,0
+893,33,Male,Not Reported,Not Reported,1,Y,N,0,1672,0,0,5158,5586,0,0,1552.0,Some Records,0
+894,48,Male,Not Reported,Not Reported,1,Y,Y,0,2540,3315,3000,7080,6720,3382,329,3295.75,Some Records,0
+895,45,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+896,39,Male,Black/African American,Not Hispanic or Latino,1,Y,N,542,9214,8116,0,0,0,0,0,2234.0,Some Records,0
+897,34,Male,Not Reported,Not Reported,1,Y,N,0,0,3757,5332,973,0,0,0,1257.75,Some Records,0
+898,29,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+899,32,Male,Not Reported,Not Reported,1,Y,Y,9268,10656,9830,11705,9906,0,0,0,6420.625,Some Records,1
+900,33,Male,Not Reported,Not Reported,1,Y,Y,68,0,0,0,0,0,0,0,8.5,Some Records,0
+901,24,Male,Black/African American,Not Hispanic or Latino,4,Y,N,5386,6138,3321,0,0,0,0,0,1855.625,Some Records,0
+902,46,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+903,28,Male,Not Reported,Not Reported,2,Y,N,1899,0,728,7195,7628,0,0,0,2181.25,Some Records,0
+904,28,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,8475,1059.375,Some Records,0
+905,29,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+906,24,Female,Black/African American,Not Hispanic or Latino,1,Y,Y,187,459,603,0,0,0,0,0,156.125,Some Records,0
+907,32,Female,Not Reported,Not Reported,1,Y,Y,1013,304,390,0,452,2206,2150,0,814.375,Some Records,0
+908,34,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+909,49,Female,Not Reported,Not Reported,1,Y,N,8505,6709,0,0,0,0,0,0,1901.75,Some Records,0
+910,25,Male,Black/African American,Not Hispanic or Latino,2,Y,N,5356,5536,7369,7344,6691,5315,6934,6980,6440.625,All Records,1
+911,48,Male,Not Reported,Not Reported,1,Y,N,9729,3465,5513,5911,14348,1804,5869,3667,6288.25,All Records,1
+912,26,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,200,25.0,Some Records,0
+913,27,Female,Not Reported,Not Reported,1,N,N,3207,0,266,758,0,0,0,0,528.875,Some Records,0
+914,47,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+915,24,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,402,0,50.25,Some Records,0
+916,25,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+917,25,Female,Black/African American,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+918,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,4746,5137,1235.375,Some Records,0
+919,47,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+920,45,Female,Not Reported,Not Reported,1,Y,Y,3928,213,0,3324,0,0,0,371,979.5,Some Records,0
+921,49,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,1111,1223,0,0,0,291.75,Some Records,0
+922,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+923,31,Male,Not Reported,Not Reported,1,N,N,934,2061,2392,1315,821,0,50,0,946.625,Some Records,0
+924,22,Male,Black/African American,Not Hispanic or Latino,1,Y,Y,0,493,0,0,0,0,0,0,61.625,Some Records,0
+925,35,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+926,46,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+927,22,Female,Black/African American,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+928,34,Female,Not Reported,Not Reported,1,Y,N,0,0,172,0,0,0,0,0,21.5,Some Records,0
+929,36,Male,Black/African American,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+930,22,Female,Black/African American,Not Reported,1,N,N,411,0,991,2762,1000,113,0,0,659.625,Some Records,0
+931,45,Female,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+932,25,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+933,22,Female,Not Reported,Not Reported,3,Y,N,0,0,0,490,0,0,0,0,61.25,Some Records,0
+934,27,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+935,48,Male,Not Reported,Not Reported,1,Y,Y,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+936,25,Male,Not Reported,Not Reported,4,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+937,24,Female,Black/African American,Not Reported,1,Y,N,0,0,0,0,1430,1182,0,0,326.5,Some Records,0
+938,31,Female,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+939,44,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+940,40,Male,Not Reported,Not Reported,1,Y,N,6698,6666,7216,7499,10751,0,0,0,4853.75,Some Records,1
+941,34,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+942,20,Male,Not Reported,Not Reported,3,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+943,22,Male,Black/African American,Not Hispanic or Latino,5,N,N,3770,6327,6390,5241,4621,0,0,0,3293.625,Some Records,0
+944,26,Female,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+945,25,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+946,27,Female,Not Reported,Not Reported,1,Y,N,6422,5053,210,0,0,0,0,0,1460.625,Some Records,0
+947,21,Female,Black/African American,Not Reported,1,N,N,0,0,0,0,6340,8248,8760,4206,3444.25,Some Records,0
+948,24,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+949,30,Male,Not Reported,Not Reported,1,Y,N,0,0,0,42,0,0,0,0,5.25,Some Records,0
+950,30,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+951,30,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,2,0,0.25,Some Records,0
+952,49,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+953,25,Male,Not Reported,Not Reported,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+954,43,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+955,25,Male,Black/African American,Not Hispanic or Latino,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+956,30,Female,Not Reported,Not Reported,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+957,30,Male,Not Reported,Not Reported,1,Y,N,2527,0,0,0,0,0,0,0,315.875,Some Records,0
+958,46,Male,Not Reported,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+959,47,Male,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+960,21,Male,Black/African American,Not Hispanic or Latino,2,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+961,20,Male,Not Reported,Not Reported,2,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+962,48,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+963,24,Female,Black/African American,Not Hispanic or Latino,1,Y,Y,1538,2283,1526,2594,1299,1349,4490,2117,2149.5,All Records,0
+964,31,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+965,44,Male,Not Reported,Not Reported,1,Y,Y,0,0,100,0,0,0,0,0,12.5,Some Records,0
+966,34,Female,Not Reported,Not Reported,2,Y,N,0,0,0,1016,527,138,4328,1395,925.5,Some Records,0
+967,28,Female,Not Reported,Not Reported,5,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+968,25,Male,Black/African American,Not Hispanic or Latino,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+969,26,Male,Black/African American,Not Hispanic or Latino,1,Y,N,0,0,0,3627,218,960,0,0,600.625,Some Records,0
+970,47,Male,Not Reported,Not Reported,1,N,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
+971,38,Female,Not Reported,Not Reported,1,Y,N,0,0,0,0,0,0,0,0,0.0,No Earnings,0
