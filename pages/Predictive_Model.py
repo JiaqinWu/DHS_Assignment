@@ -1,10 +1,10 @@
 import streamlit as st
-import joblib
 import pandas as pd
 import pickle
 
-# Load the saved model
-kmeans_model = joblib.load('kmeans_model.pkl')
+# Load a model
+with open("kmeans_model.pkl", "rb") as f:
+    kmeans_model = pickle.load(f)
 
 # Define user inputs
 st.title("Assistance Classification Dashboard")
