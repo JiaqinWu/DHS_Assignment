@@ -1,6 +1,8 @@
 import streamlit as st
 import joblib
 import pandas as pd
+import pickle
+from sklearn.preprocessing import StandardScaler
 
 # Load the saved model
 kmeans_model = joblib.load('kmeans_model.pkl')
