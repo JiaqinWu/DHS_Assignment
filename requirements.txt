@@ -1,5 +1,4 @@
 joblib
 plotly
 seaborn
-sklearn
 pickle
